@@ -1,6 +1,6 @@
 # KeenIO Anypoint Connector
 
-KeenIO connector is the connector developed for mule and anypoint studio. The connector will be used to send events to the KeenIO analytics engine in cloud
+KeenIO connector is the connector developed for mule and anypoint studio. The connector will be used to send events to the KeenIO analytics engine in cloud from mule esb flow. The connection can be easily establkished with minimum set of configuration details.
 
 # Mule supported versions
 Mule 3.4.x, 3.5.x
