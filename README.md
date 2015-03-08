@@ -14,7 +14,7 @@ All
 For beta connectors you can download the source code and build it with devkit to find it available on your local repository. Then you can add it to Studioâ€¦<TBD>
 
 For released connectors you can download them from the update site in Studio. 
-Open MuleStudio, go to Help â†’ Install New Software and select MuleStudio Cloud Connectors Update Site where youâ€™ll find all avaliable connectors.
+Open MuleStudio, go to Help â†’ Install New Software and select KeenIO Connectors Update Site where you will find all avaliable connectors.
 
 #Usage
 For information about usage our documentation at http://github.com/mulesoft/keen-io.
