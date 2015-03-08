@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(keen-io:my-processor) -->
+    <keen-io:my-processor config-ref="" content="#[map-payload:content]" />
+<!-- END_INCLUDE(keen-io:my-processor) -->
